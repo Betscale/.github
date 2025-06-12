@@ -1,1 +1,1 @@
-# Betscale[https://betscale.app/]
+# https://betscale.app/
